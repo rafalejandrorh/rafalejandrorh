@@ -51,7 +51,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veroMoreno&theme=radical&card_width=450em)](https://github.com/veroMoreno/veroMoreno/github-readme-stats"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalejandrorh&theme=tokyonight&card_width=450em"/></td>
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafalejandrorh&count_private=true&show_icons=true&theme=tokyonight" /></td>
   </tr>
 </table>
