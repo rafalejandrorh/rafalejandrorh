@@ -24,7 +24,7 @@
 </p>
 
 <h3>
- Database´s 
+ Databases 
 </h3> 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit">
@@ -52,3 +52,9 @@
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafalejandrorh&count_private=true&show_icons=true&theme=tokyonight" /></td>
  </tr>
 </table>
+
+<!-- ### TOP Repositores
+
+ [![](https://github-readme-stats.vercel.app/api/pin/?username=veroMoreno&repo=react-url-shortener-front&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/veroMoreno/react-url-shortener-front)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=veroMoreno&repo=mealplan-front&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/veroMoreno/mealplan-front)
+-->
