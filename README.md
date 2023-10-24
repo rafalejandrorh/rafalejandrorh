@@ -1,9 +1,8 @@
 # Rafael Rivero
 
 ## 💻 Tech Stack:
-<h3>
- ★ Favorite Programming Languages, Frameworks & Libraries
-</h3> 
+
+### ★ Favorite Programming Languages, Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
@@ -28,9 +27,7 @@
   <img src="https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white&color=%23F46800">
 </p>
 
-<h3>
- Others
-</h3>
+### Others
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -39,15 +36,13 @@
   <!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> -->
 </p>
 
-<h3>
- Databases 
-</h3> 
+### Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<h4>Tools & Technologies</h4>
+### Tools & Technologies
 <p>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
