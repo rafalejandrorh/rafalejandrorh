@@ -1,6 +1,6 @@
 ### Rafael Rivero
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 <h3>
  ★ Favorite Programming Languages, Frameworks & Libraries
 </h3> 
