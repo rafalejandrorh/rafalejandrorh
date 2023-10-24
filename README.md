@@ -44,7 +44,7 @@
 </p>
 
 ### Github Stats
-(<a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>)
+<!-- (<a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>) -->
 
 <table>
   <tr>
