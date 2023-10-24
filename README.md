@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
 </p>
 
-### Github Stats
+## 📊 GitHub Stats:
 <!-- (<a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>) -->
 
 <table>
@@ -74,3 +74,7 @@
  [![](https://github-readme-stats.vercel.app/api/pin/?username=veroMoreno&repo=react-url-shortener-front&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/veroMoreno/react-url-shortener-front)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=veroMoreno&repo=mealplan-front&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/veroMoreno/mealplan-front)
 -->
+
+[![](https://visitcount.itsvg.in/api?id=rafalejandrorh&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
